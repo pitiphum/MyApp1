@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My App1</string>
+    <string name="title1">Welcome to MainActivity </string>
+    <string name="sub_title1">Open another activity</string>
+    <string name="title2">You are in second activity</string>
+    <string name="sub_title2">Congratulations Your are in second activity</string>
+    <string name="txt_open">Open Activity</string>
+    <string name="back">Back to MainActivity</string>
+    <string name="txt_google">Open Google</string>
+    <string name="txt_sent_data">Sent data</string>
+    <string name="txt_maps">Open Maps</string>
+    <string name="txt_tel">Telephone</string>
+    <string name="txt_navigation">Open navigation</string>"
+
+</resources>
